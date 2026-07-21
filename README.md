@@ -22,8 +22,8 @@ I write documentation that helps engineers integrate faster and end users unders
 
 | Repo | What it is |
 |---|---|
-| [Technical-Writing](https://github.com/rajaramanapi/Technical-Writing) | Writing samples and documentation practice projects |
-| [API-References](https://github.com/rajaramanapi/API-References) | Static API reference documentation |
+| [Technical-Writing](https://github.com/rajaramanapi/style-guide-portfolio) | Writing samples and documentation practice projects |
+| [API-References](https://github.com/rajaramanapi/api-documentation-samples) | Static API reference documentation |
 | [kantime](https://github.com/rajaramanapi/kantime) | Documentation/web project |
 
 ### 📫 Connect with me
